@@ -1,0 +1,11 @@
+# Never commit these
+*.iso
+*.vdi
+*.vmdk
+*.ova
+*.vbox
+scripts/logs/
+*.log
+*.csv
+Thumbs.db
+.DS_Store
